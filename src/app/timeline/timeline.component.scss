@@ -1,0 +1,9 @@
+$heightOfEmptyDay: 2px; // for exact height of defined date, use 24px
+
+.min-height {
+  min-height: $heightOfEmptyDay;
+}
+
+.timeline-border {
+  border-left: 4px solid rgba(255, 255, 255, 0.5);
+}
